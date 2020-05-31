@@ -27,3 +27,22 @@ Setup:
 - https://marketplace.visualstudio.com/items?itemName=danielgjackson.auto-dark-mode-windows
 
   In the settings, enable "window.autoDetectColorScheme".
+
+Advanced:
+If you want an easy to use button that can be pinned to the Start menu or Taskbar:
+
+1. At your desktop, create a new shortcut.
+
+2. In the location input, type
+   cmd /c "full path to your batch file"
+
+   So for example, I have
+   cmd /c "E:\Desktop\Code\Tools\light-dark-toggle\light-dark-toggle.bat"
+
+3. After naming it, you now have a shortcut that can be pinned where you like.
+
+4. If you would like to add a custom icon, right click your new shortcut, click the "Shortcut" tab, and then the button, "Change Icon..."
+   Acceptable icons include those ending in .exe, .dll, or .ico
+   You can also take an image you would like to use and convert it to .ico format
+   Here's a sample site to do so:
+   https://online-converting.com/image/convert2ico/
