@@ -34,9 +34,11 @@ If you want an easy to use button that can be pinned to the Start menu or Taskba
 1. At your desktop, create a new shortcut.
 
 2. In the location input, type
+
    cmd /c "full path to your batch file"
 
    So for example, I have
+
    cmd /c "E:\Desktop\Code\Tools\light-dark-toggle\light-dark-toggle.bat"
 
 3. After naming it, you now have a shortcut that can be pinned where you like.
