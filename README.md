@@ -26,4 +26,4 @@ Setup:
 
 - https://marketplace.visualstudio.com/items?itemName=danielgjackson.auto-dark-mode-windows
 
-In the settings, enable "window.autoDetectColorScheme".
+  In the settings, enable "window.autoDetectColorScheme".
