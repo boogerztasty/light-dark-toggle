@@ -39,11 +39,13 @@ If you want an easy to use button that can be pinned to the Start menu or Taskba
 
    So for example, I have
 
-   cmd /c "E:\Desktop\Code\Tools\light-dark-toggle\light-dark-toggle.bat"
+   ```
+   cmd /c "E:\Desktop\0\Code\light-dark-toggle\light-dark-toggle.bat"
+   ```
 
 3. After naming it, you now have a shortcut that can be pinned where you like.
 
-4. If you would like to add a custom icon, right click your new shortcut, click the "Shortcut" tab, and then the button, "Change Icon..."
+4. If you would like to add a custom icon, right click your new shortcut and click on "Properties", click the "Shortcut" tab, and then the button, "Change Icon..."
    Acceptable icons include those ending in .exe, .dll, or .ico
    You can also take an image you would like to use and convert it to .ico format
    Here's a sample site to do so:
