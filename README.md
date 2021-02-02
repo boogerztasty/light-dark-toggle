@@ -1,6 +1,12 @@
-# light-dark-toggle
+# light-dark-toggle (DEPRECATED)
 
 A quick toggle to switch between light and dark mods on my computer.
+
+# DEPRECATION
+
+This repo has been deprecated in favor of [Nightlight](https://github.com/walterimaican/nightlight), the successor to this project.
+
+#
 
 At the time of this readme, OS specs are as follows:
 
